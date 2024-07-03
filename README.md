@@ -1,4 +1,4 @@
-# SALAM...
+# SALAM.
 DOC2B
 {
   "genesis": {
